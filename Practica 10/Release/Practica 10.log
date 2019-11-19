@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: El directorio intermedio (Release\) contiene archivos compartidos de otro proyecto (Practica 10.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  Camera.cpp
+  figuras.cpp
+c:\users\riacardoeduardo\desktop\aproyectofinal\recorrido virtualpf\practica 10\figuras.cpp(20): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\riacardoeduardo\desktop\aproyectofinal\recorrido virtualpf\practica 10\figuras.cpp(96): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\riacardoeduardo\desktop\aproyectofinal\recorrido virtualpf\practica 10\figuras.cpp(166): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\riacardoeduardo\desktop\aproyectofinal\recorrido virtualpf\practica 10\figuras.cpp(238): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\riacardoeduardo\desktop\aproyectofinal\recorrido virtualpf\practica 10\figuras.cpp(308): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\riacardoeduardo\desktop\aproyectofinal\recorrido virtualpf\practica 10\figuras.cpp(378): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\riacardoeduardo\desktop\aproyectofinal\recorrido virtualpf\practica 10\figuras.cpp(448): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\riacardoeduardo\desktop\aproyectofinal\recorrido virtualpf\practica 10\figuras.cpp(517): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\riacardoeduardo\desktop\aproyectofinal\recorrido virtualpf\practica 10\figuras.cpp(732): warning C4101: 'theta': variable local sin referencia
+c:\users\riacardoeduardo\desktop\aproyectofinal\recorrido virtualpf\practica 10\figuras.cpp(732): warning C4101: 'phi': variable local sin referencia
+  texture.cpp
+  ProyectoFinal.cpp
+  Generando código
+  46 of 47 functions (97.9%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Practica 10.vcxproj -> C:\Users\RiacardoEduardo\Desktop\AProyectoFinal\Recorrido VirtualPF\Release\ProyectoFinal.exe
